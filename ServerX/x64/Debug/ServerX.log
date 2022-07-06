@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\ServerX\ServerX\Source.cpp(73,7): warning C4101: buffer: неиспользованная локальная переменная
+C:\Users\Admin\source\repos\ServerX\ServerX\Source.cpp(46): warning C4715: serverSend: значение возвращается не при всех путях выполнения
+  ServerX.vcxproj -> C:\Users\Admin\source\repos\ServerX\x64\Debug\ServerX.exe
